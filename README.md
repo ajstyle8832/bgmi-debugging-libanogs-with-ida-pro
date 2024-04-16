@@ -1,4 +1,4 @@
-#live debugging libanogs.so library via IDA PRO    Anti-Ban Techniques for Games: Educational Overview
+## live debugging libanogs.so library via IDA PRO    Anti-Ban Techniques for Games: Educational Overview
 
 This README discusses various technical methods for creating anti-ban systems in games. These techniques, while theoretically interesting and often complex, can be against the terms of service of many games. The information provided here is strictly for educational and informational purposes only.
 
